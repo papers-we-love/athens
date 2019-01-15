@@ -1,7 +1,7 @@
 # Building a DDoS mitigation pipeline using XDP
 
 - PWL @ Athens
-  [#8](https://www.meetup.com/Papers-We-Love-Athens/events/256837467/)
+  [#9](https://www.meetup.com/Papers-We-Love-Athens/events/256837467/)
 - Presented by [Linos Giannopoulos](https://twitter.com/coheNakatos)
 - Watch [the talk](https://youtu.be/HcANdICNmP4)
 - Read [the
